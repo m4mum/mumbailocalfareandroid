@@ -1,0 +1,14 @@
+Developed by:
+Pradeep Kumar Paijwar
+
+An open source initiative by www.m4mum.com
+
+Daily more than 6.9 million commuters commutes on a daily basis and 
+constitutes more than half of the total daily passenger capacity of the Indian Railways itself. 
+
+People buy tickets on counter, or use CVM coupon, there are certain situation when you do not have exact change.
+Using this application you can know how much exact change you will require or how many coupon you may need to punch in.
+
+This comes handy when there is large queue at the station.
+
+
