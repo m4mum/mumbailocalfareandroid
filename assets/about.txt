@@ -1,10 +1,13 @@
-About Mumbai Local Train Fare
+We Love Mumbai
+
 
 Contributor:
 Pradeep Kumar Paijwar
 Raxit Sheth
 
-An open source initiative by www.m4mum.com. This software is licensed under AGPL license.
+An open source initiative by Mobile 4 Mumbai http://www.m4mum.com.
+
+This software is licensed under AGPL license.
 For more details please visit : http://www.gnu.org/licenses/agpl-3.0.txt
 
 Please visit www.m4mum.com/opensource.html for other open source initiative.
