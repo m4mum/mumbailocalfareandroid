@@ -1,14 +1,20 @@
-Developed by:
+About Mumbai Local Train Fare
+
+Contributor:
 Pradeep Kumar Paijwar
+Raxit Sheth
 
-An open source initiative by www.m4mum.com
+An open source initiative by www.m4mum.com. This software is licensed under AGPL license.
+For more details please visit : http://www.gnu.org/licenses/agpl-3.0.txt
 
-Daily more than 6.9 million commuters commutes on a daily basis and 
-constitutes more than half of the total daily passenger capacity of the Indian Railways itself. 
+Please visit www.m4mum.com/opensource.html for other open source initiative.
 
-People buy tickets on counter, or use CVM coupon, there are certain situation when you do not have exact change.
-Using this application you can know how much exact change you will require or how many coupon you may need to punch in.
+Daily more than 6.9 million commuters commutes using mumbai local train.
 
-This comes handy when there is large queue at the station.
+People buy tickets on counter, or use coupons and CVM .
+Even there are fare charts at stations near ticket counter and CVM, Using this software one can know exact fare well in advance and we hope you will provide exact change.
+This will help in saving precious time of your and other commuters,ticket issuing authority as you may start giving exact change.
 
+Also due to space limitation many time rush on fare chart near CVM can be avoided.
 
+For any suggestion/feedback please contact Raxit Sheth [ raxit@m4mum.com  or call: +91-98922 38248]
